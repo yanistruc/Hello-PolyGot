@@ -3,50 +3,50 @@ Le seul but est d'avoir le plus de language utilisé sur Github
 
 Languages :
 
-[x] Python
-[ ] Java
-[x] JavaScript
-[x] Batch
-[x] CSS
-[x] HTML
-[x] C
-[ ] C++
-[ ] C#
-[x] Ruby
-[ ] Go
-[ ] Rust
-[x] Shell (bash/sh)
-[ ] Assembly
-[ ] Fortran
-[ ] R
-[ ] PHP
-[ ] Perl
-[ ] Lua
-[ ] Kotlin
-[ ] Swift
-[ ] Objective-C
-[ ] TypeScript
-[ ] Scala
-[ ] Haskell
-[ ] Dart
-[ ] Elm
-[ ] Erlang
-[ ] Groovy
-[ ] Julia
-[ ] Lisp
-[ ] Matlab
-[ ] PowerShell
-[ ] Visual Basic
-[ ] CoffeeScript
-[ ] F#
-[ ] Ada
-[ ] Crystal
-[ ] D
-[ ] OCaml
-[ ] Solidity
-[ ] VHDL
-[ ] Verilog
-[ ] Tcl
-[ ] XSLT
-[ ] YAML
-[ ] JSON (yeah, counted as a language)
+- [x] Python
+- [ ] Java
+- [x] JavaScript
+- [x] Batch
+- [x] CSS
+- [x] HTML
+- [x] C
+- [ ] C++
+- [ ] C#
+- [x] Ruby
+- [ ] Go
+- [ ] Rust
+- [x] Shell (bash/sh)
+- [ ] Assembly
+- [ ] Fortran
+- [ ] R
+- [ ] PHP
+- [ ] Perl
+- [ ] Lua
+- [ ] Kotlin
+- [ ] Swift
+- [ ] Objective-C
+- [ ] TypeScript
+- [ ] Scala
+- [ ] Haskell
+- [ ] Dart
+- [ ] Elm
+- [ ] Erlang
+- [ ] Groovy
+- [ ] Julia
+- [ ] Lisp
+- [ ] Matlab
+- [ ] PowerShell
+- [ ] Visual Basic
+- [ ] CoffeeScript
+- [ ] F#
+- [ ] Ada
+- [ ] Crystal
+- [ ] D
+- [ ] OCaml
+- [ ] Solidity
+- [ ] VHDL
+- [ ] Verilog
+- [ ] Tcl
+- [ ] XSLT
+- [ ] YAML
+- [ ] JSON (yeah, counted as a language)
