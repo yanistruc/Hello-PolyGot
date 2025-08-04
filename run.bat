@@ -19,6 +19,12 @@ if %ERRORLEVEL% neq 0 (
     exit /b 1
 )
 
+where ruby >nul 2>nul
+if %ERRORLEVEL% neq 0 (
+    echo Ruby introuvable !
+    exit /b 1
+)
+
 python languages\hello_python.py
 if %ERRORLEVEL% neq 0 (
     echo Erreur lors de l'execution de hello_python.py
@@ -44,6 +50,13 @@ if %ERRORLEVEL% neq 0 (
 )
 
 bash.exe languages/hello_bash.sh
+
+ruby languages\hello_ruby.rb
+if %ERRORLEVEL% neq 0 (
+    echo Erreur lors de l'execution de hello_ruby.rb
+    exit /b 1
+)
+
 
 npx electron .
 if %ERRORLEVEL% neq 0 (
