@@ -1,0 +1,9 @@
+{
+  "main": "languages/hello_html.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^37.2.5"
+  }
+}

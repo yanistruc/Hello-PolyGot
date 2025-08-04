@@ -1,0 +1,6 @@
+.css::before {
+    content: "Hello from CSS";
+    display: block;
+    color: blue;
+    font-weight: bold;
+}

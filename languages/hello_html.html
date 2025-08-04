@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Hello HTML</title>
+  <title>Hello HTML</title>
+  <link href="./hello_css.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-    <h1>Hello from HTML</h1>
+  <h1>Hello from HTML</h1>
+  <h1 class="css"></h1>
+
+  <script>
+    window.electronAPI.print('Hello from HTML')
+
+    window.electronAPI.print('Hello from CSS')
+
+    window.electronAPI.close()
+  </script>
 </body>
 </html>

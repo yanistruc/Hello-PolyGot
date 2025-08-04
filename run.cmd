@@ -13,6 +13,6 @@ if %ERRORLEVEL% neq 0 exit /b 1
 node languages\hello_javascript.js
 if %ERRORLEVEL% neq 0 exit /b 1
 
-start "" languages\hello_html.html
+npx electron .
 
 pause
