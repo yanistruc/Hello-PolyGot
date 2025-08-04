@@ -3,19 +3,19 @@ Le seul but est d'avoir le plus de language utilisé sur Github
 
 Languages :
 
-[X] Python
+[x] Python
 [ ] Java
-[X] JS
-[X] Batch
-[X] CSS (LOL)
-[X] HTML (LOL)
-[X] C
+[x] JS
+[x] Batch
+[x] CSS (LOL)
+[x] HTML (LOL)
+[x] C
 [ ] C++
 [ ] C#
-[X] Ruby
+[x] Ruby
 [ ] Go
 [ ] Rust
-[X] Shell (Like bash or sh)
+[x] Shell (Like bash or sh)
 [ ] Assembly
 [ ] Fortran
 [ ] R
