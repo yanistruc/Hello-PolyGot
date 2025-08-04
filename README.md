@@ -5,17 +5,48 @@ Languages :
 
 [x] Python
 [ ] Java
-[x] JS
+[x] JavaScript
 [x] Batch
-[x] CSS (LOL)
-[x] HTML (LOL)
+[x] CSS
+[x] HTML
 [x] C
 [ ] C++
 [ ] C#
 [x] Ruby
 [ ] Go
 [ ] Rust
-[x] Shell (Like bash or sh)
+[x] Shell (bash/sh)
 [ ] Assembly
 [ ] Fortran
 [ ] R
+[ ] PHP
+[ ] Perl
+[ ] Lua
+[ ] Kotlin
+[ ] Swift
+[ ] Objective-C
+[ ] TypeScript
+[ ] Scala
+[ ] Haskell
+[ ] Dart
+[ ] Elm
+[ ] Erlang
+[ ] Groovy
+[ ] Julia
+[ ] Lisp
+[ ] Matlab
+[ ] PowerShell
+[ ] Visual Basic
+[ ] CoffeeScript
+[ ] F#
+[ ] Ada
+[ ] Crystal
+[ ] D
+[ ] OCaml
+[ ] Solidity
+[ ] VHDL
+[ ] Verilog
+[ ] Tcl
+[ ] XSLT
+[ ] YAML
+[ ] JSON (yeah, counted as a language)
