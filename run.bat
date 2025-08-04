@@ -25,6 +25,12 @@ if %ERRORLEVEL% neq 0 (
     exit /b 1
 )
 
+where perl >nul 2>nul
+if %ERRORLEVEL% neq 0 (
+    echo Perl introuvable !
+    exit /b 1
+)
+
 python languages\hello_python.py
 if %ERRORLEVEL% neq 0 (
     echo Erreur lors de l'execution de hello_python.py
@@ -54,6 +60,12 @@ bash.exe languages/hello_bash.sh
 ruby languages\hello_ruby.rb
 if %ERRORLEVEL% neq 0 (
     echo Erreur lors de l'execution de hello_ruby.rb
+    exit /b 1
+)
+
+perl languages\hello_perl.pl
+if %ERRORLEVEL% neq 0 (
+    echo Erreur lors de l'execution de hello_perl.pl
     exit /b 1
 )
 

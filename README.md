@@ -49,4 +49,4 @@ Languages :
 - [ ] Tcl
 - [ ] XSLT
 - [ ] YAML
-- [ ] JSON (yeah, counted as a language)
+- [ ] JSON (Oui, c'est un language)
